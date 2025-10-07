@@ -2,7 +2,7 @@ package IfElse;
 
 import java.util.Scanner;
 
-public class PositivoNegativo {
+public class Ex22PositivoNegativo {
     public static void main(String[] args) {
         Scanner ler =  new Scanner(System.in);
 

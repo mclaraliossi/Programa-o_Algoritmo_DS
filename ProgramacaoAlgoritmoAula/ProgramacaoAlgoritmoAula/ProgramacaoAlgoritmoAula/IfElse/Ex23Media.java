@@ -2,7 +2,7 @@ package IfElse;
 
 import java.util.Scanner;
 
-public class Media {
+public class Ex23Media {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
 
